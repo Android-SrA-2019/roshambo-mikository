@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RockPaperSci</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="player_label">Your Move</string>
+    <string name="opponent_label">Games Move</string>
+</resources>
